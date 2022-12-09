@@ -4,9 +4,6 @@ Proyecto basado en "cardano-wallet-connector" para poder hacer varias operacione
 # Descripcion 
 Proyecto basado en "cardano-wallet-connector" para poder hacer varias operaciones con cardano. Como ser, envio de ADAS, envio de TOKENS, Envio de ADAS ade Plutus Scripts, Envio de  TOKENS a plutus scripts, Redimir ADAs de Plutus scripts, y Redimir Tokens de Plutus Scripts.  Mostrar Lista de UTXOe, etc.   Todo esta "Comentado" en el codigo. Solo esta habilitado el ENVIO DE ADAS.  Si descomentamos funciona todo. 
 
-# citaldoc-cardanopayment
-Wallet connection, and payment with ADA for Citaldoc platform
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
